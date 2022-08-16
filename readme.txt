@@ -23,8 +23,3 @@ KEYS: 'a','w','s','d'
 if snake eats the food "@" it will grow 1 size larger 
 You can win the game by eating required number of food
 You can lose the game if snake bites itself or the game border
-#####################################################################################################################################
-
-
-
-if you like my work then give me 5 star rating and some good sentences in review. I shall be thankful. 
