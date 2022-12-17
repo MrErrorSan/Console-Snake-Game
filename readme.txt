@@ -1,3 +1,4 @@
+You can run this project on your device by following the steps given bellow:
    _________
 >>>| Step#1 |
    ---------
